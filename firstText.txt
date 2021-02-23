@@ -1,2 +1,5 @@
-First text for first commit!!!
-CollisionOccured?
+<<<<<<< HEAD
+First text for first commit!!
+=======
+First text for first commit!!
+>>>>>>> feature-2
