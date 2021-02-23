@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-First text for first commit!!
-=======
-First text for first commit!!
->>>>>>> feature-2
+First text for first commit!!!!!
